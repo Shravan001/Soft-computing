@@ -22,5 +22,5 @@ Features
 Usage
 To run the Genetic Algorithm, follow these steps:
 
-1.Clone the repository
-2.Compile and execute the cpp program.
+1. Clone the repository 
+2. Compile and execute the cpp program.
